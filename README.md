@@ -27,18 +27,18 @@ The project is created with
  - **Edge** 
 	 - Jul 2015 release above.
  - **Firefox** 
-	 - Mar 2014 release and above.
- - Chrome 
-	 - Jul 2013 release and above.
-- Safari
-	- Sept 2015 release and above.
-- Opera
+	 - April 2013 release and above.
+ - **Chrome** 
+	 - Feb 2013 release and above.
+- **Safari**
+	- Oct 2013 release and above.
+- **Opera**
 	- Oct 2013 release and above.
 
 
 ### Github Pages
 
- - Access the page here:
+ - **Access the page here**:
 	 - https://meganga.github.io/resume_in_html_form/
 	
 
@@ -46,6 +46,6 @@ The project is created with
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0NzEzNDYxLDg0NzE0MDQwNSwtMTQ2Mj
-MxODcyOV19
+eyJoaXN0b3J5IjpbLTY3MjEwNTEzOCw4NDcxNDA0MDUsLTE0Nj
+IzMTg3MjldfQ==
 -->
