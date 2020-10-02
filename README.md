@@ -5,18 +5,18 @@ Tried to write my resume in html form.
 ## Technologies Used:
 The project is created with
 
- - HTML 5
- - CSS 4
+ - **HTML 5**
+ - **CSS 4**
 
 ## Applications/resources used :
 
- - Visual Studio: 
+ - **Visual Studio**: 
 	 - To write all the HTML and the CSS code.
 		  
  - Pakages used:	 
-	 -  Prettier: To take care of the indentation and maintaining the structure of the code.
-	 - open in browse: To open file in a browse more easily.
- - Stackedit:
+	 -  **Prettier**: To take care of the indentation and maintaining the structure of the code.
+	 - **open in browse**: To open file in a browse more easily.
+ - **Stackedit**:
 	 - To write and maintain the README.md file.
 		 - https://stackedit.io
 
@@ -24,9 +24,9 @@ The project is created with
 ## Launch
  
 
- - Edge 
+ - **Edge** 
 	 - Jul 2015 release above.
- - Firefox 
+ - **Firefox** 
 	 - Mar 2014 release and above.
  - Chrome 
 	 - Jul 2013 release and above.
@@ -46,5 +46,6 @@ The project is created with
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3MTQwNDA1LC0xNDYyMzE4NzI5XX0=
+eyJoaXN0b3J5IjpbNjA0NzEzNDYxLDg0NzE0MDQwNSwtMTQ2Mj
+MxODcyOV19
 -->
