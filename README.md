@@ -37,7 +37,10 @@ The project is created with
 
 
 ### Github Pages
+Access the page here:
+	https://meganga.github.io/resume_in_html_form/
+	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTUzNjI5OSwtMTQ2MjMxODcyOV19
+eyJoaXN0b3J5IjpbMTMwNzQzODU4NywtMTQ2MjMxODcyOV19
 -->
