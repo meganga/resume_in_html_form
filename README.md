@@ -33,7 +33,7 @@ The project is created with
 - **Safari**
 	- Oct 2013 release and above.
 - **Opera**
-	- Oct 2013 release and above.
+	- Jul 2013 release and above.
 
 
 ### Github Pages
@@ -46,6 +46,6 @@ The project is created with
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjEwNTEzOCw4NDcxNDA0MDUsLTE0Nj
-IzMTg3MjldfQ==
+eyJoaXN0b3J5IjpbNjcyNjQ4MTc1LDg0NzE0MDQwNSwtMTQ2Mj
+MxODcyOV19
 -->
