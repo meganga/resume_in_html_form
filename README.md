@@ -20,12 +20,6 @@ The project is created with
 	 - To write and maintain the README.md file.
 		 - https://stackedit.io
 
-## Design Technologies used:
-
- - Vecter:     
-	 -   To design the various sections of the web page.
-			- https://vectr.com/
-
 
 ## Launch
  
@@ -41,5 +35,5 @@ The project is created with
 - Opera
 	- Oct 2013 release and above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5OTg5Nzk3XX0=
+eyJoaXN0b3J5IjpbLTE0NjIzMTg3MjldfQ==
 -->
